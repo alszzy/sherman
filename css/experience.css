@@ -5,7 +5,7 @@ main{
     align-items: center;
 }
 .work-experience {
-    margin-top: 100px;
+    margin-top: 150px;
     padding-top: 20px;
 }
 .projects {
@@ -18,6 +18,8 @@ main{
     height: auto;
     border-radius: 10px;
     line-height: 35px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+
 }
 
 section h2{
