@@ -1,0 +1,15 @@
+
+
+.welcome {
+    /* border: solid black 5px; */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.shiny-gold-text {
+    font-size: 96px;
+}
